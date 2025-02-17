@@ -144,7 +144,7 @@ REFERENCES categories (id);
 
 
 
--- TODO create more constraints here...
+-- more constraints here...
 
 ALTER TABLE employees_territories
 ADD CONSTRAINT fk_employees_territories_employees
